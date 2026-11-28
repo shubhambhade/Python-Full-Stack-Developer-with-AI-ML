@@ -1,0 +1,1 @@
+#write a program to take input mail and password from user and validate the mail and password all rules.
